@@ -2,18 +2,16 @@
 # Netflix Clone
 
 This project aims to provide a comprehensive and accurate representation of the Netflix UI, allowing developers to learn from and build upon the industry-leading design and functionality of the popular streaming service.
+
+
 ## Technologies used
 
 **HTML and CSS**
 
+
 ## Demo
 
-(https://ayushdubey570.github.io/Netflix-Clone/)
-
-
-## Screenshots
-
-![App Screenshot]()
+https://ayushdubey570.github.io/Netflix-Clone/
 
 
 ## 🚀 About Me
