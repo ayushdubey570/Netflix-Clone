@@ -8,7 +8,7 @@ This project aims to provide a comprehensive and accurate representation of the 
 
 ## Demo
 
-//
+(https://ayushdubey570.github.io/Netflix-Clone/)
 
 
 ## Screenshots
